@@ -1,11 +1,11 @@
 README
 
+Outcome: https://642d343edb12247767457c16--funny-seahorse-761a40.netlify.app/.netlify/functions/environment
 
 
 Ref: 
 
 https://medium.com/better-practices/serverless-functions-the-fast-way-43d6128ff8d5
-
 
 Notes:
 
@@ -14,6 +14,7 @@ Unsplash API has changed since the article was last written.
 Reading:
 
 - https://www.netlify.com/blog/2019/11/18/what-are-microservices/?utm_source=postman-blog&utm_medium=sls-intro-jl&utm_campaign=devex
+- https://www.one-tab.com/page/uLkYlkR4RuqCcefVkE7TgA
 - 
 
 
