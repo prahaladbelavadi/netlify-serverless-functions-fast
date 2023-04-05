@@ -1,0 +1,23 @@
+{
+  "name": "netlify-serverless-functions-fast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/netlify-serverless-functions-fast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/netlify-serverless-functions-fast/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/netlify-serverless-functions-fast#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
